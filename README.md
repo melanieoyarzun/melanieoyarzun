@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Melanie
 
-I'm a Chilean 🇨🇱 doctoral researcher, pursuing a Phd in Social Complexity [@CICS](https://complejidadsocial.udd.cl) Universidad del Desarrollo 
+I'm a Chilean 🇨🇱 doctoral researcher, pursuing a Ph.D. in Social Complexity [@CICS](https://complejidadsocial.udd.cl) Universidad del Desarrollo. 
 
-🔍 My research focus on exploring social dynamics within educational environments and their impact on students' success, coexistence, and society at large.
+🔍 My research focuses on exploring social dynamics within educational environments and their impact on students' success, coexistence, and society at large.
 
 📚 With a background in Econometrics, I work at the intersection of social and computational sciences, employing quantitative analysis, social networks, experimental game theory, and causal inference to comprehend critical themes such as reciprocity, cooperation, social hierarchy, and friendship. 
 
